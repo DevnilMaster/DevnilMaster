@@ -13,9 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;
+  <a href="https://huggingface.co/DevnilMaster1">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DevnilMaster&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
-
 ---
 
 ## About Me
