@@ -25,7 +25,7 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 - 🎓 B.Sc. in Computer Science & Engineering (Data Science) — East West University, Dhaka
 - 🤖 Currently building **Agentic AI** pipelines using LLM APIs (OpenAI, Anthropic)
 - 📄 **Peer-reviewed research** published at an international conference; one paper under review at **KDD 2026**
-- 🌱 Actively seeking **Data Science internship** opportunities
+- 🌱 Actively seeking **Data Science related job** opportunities
 - 🧩 Interests: Recommender Systems · Graph-based ML · Explainable AI · NLP
 
 ---
