@@ -89,19 +89,16 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevnilMaster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="155"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnilMaster&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevnilMaster&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DevnilMaster&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 <p align="center">
   <i>"Build systems that learn. Publish work that matters."</i>
 </p>
