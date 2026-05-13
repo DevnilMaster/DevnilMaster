@@ -100,21 +100,23 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 
 **Fundamentals**
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-ffffff?style=for-the-badge&color=006633&logoColor=white)
-![Graph ML](https://img.shields.io/badge/Graph--based_ML-ffffff?style=for-the-badge&color=006633&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-006633?style=for-the-badge&logoColor=white)
+![Graph ML](https://img.shields.io/badge/Graph--based_ML-006633?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevnilMaster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&icon_color=00ff88&title_color=00ff88&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnilMaster&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" height="165"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=DevnilMaster&cc=0d1117&tc=00ff88&ic=00cc66&bc=00ff88" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevnilMaster&theme=tokyonight&hide_border=true&ring=00ff88&fire=00cc66&currStreakLabel=00ff88" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnilMaster&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" />
 </p>
 
 ---
