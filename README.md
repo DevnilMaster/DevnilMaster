@@ -108,8 +108,13 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=DevnilMaster&cc=0d1117&tc=00ff88&ic=00cc66&bc=00ff88" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=DevnilMaster&theme=tokyonight&hide_border=true&ring=00ff88&fire=00cc66&currStreakLabel=00ff88" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnilMaster&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" />
 </p>
