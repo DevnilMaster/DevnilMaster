@@ -84,9 +84,9 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**Cloud & Tools**
+**Cloud & Version Control**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,20 +95,20 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 **IDEs & Editors**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Fundamentals**
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00FF88?style=for-the-badge&logoColor=black)
-![Graph ML](https://img.shields.io/badge/Graph--based_ML-00CC66?style=for-the-badge&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-ffffff?style=for-the-badge&color=006633&logoColor=white)
+![Graph ML](https://img.shields.io/badge/Graph--based_ML-ffffff?style=for-the-badge&color=006633&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevnilMaster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&icon_color=00ff88&title_color=00ff88" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevnilMaster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&icon_color=00ff88&title_color=00ff88&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnilMaster&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff88" height="165"/>
 </p>
