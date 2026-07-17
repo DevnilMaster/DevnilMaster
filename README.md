@@ -43,7 +43,7 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 | # | Paper | Venue | Status |
 |---|-------|-------|--------|
 | 1 | **A Fusion-Based Multi-View Deep Learning Framework for Breast Cancer Detection with Explainable AI** | CIIR 2026 — Sister Nivedita University, Kolkata, India | ✅ Accepted & Presented |
-| 2 | **Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset** | KDD 2026 — ACM SIGKDD Conference on Knowledge Discovery and Data Mining | 🔄 Under Review |
+| 2 | **Towards Personalized Bangla Book Recommendation: A Large-Scale Heterogeneous Book Graph Dataset** | CIKM 2026 — 35th ACM International Conference on Information & Knowledge Management (CIKM 2026)  | 🔄 Under Review |
 
 ---
 
