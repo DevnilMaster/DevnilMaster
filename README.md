@@ -54,10 +54,10 @@ I am a Computer Science graduate with a specialization in **Data Science** from 
 
 - Techniques: Knowledge Graph construction · Collaborative Filtering · TF-IDF · Cosine Similarity · N-gram NLP
 - Dataset published on **Hugging Face** under CC-BY-NC-4.0
-- Research submitted to **KDD 2026**
+- Research submitted to **CIKM 2026**
 
 ### Agentic AI Assistant *(in progress)*
-> Multi-step autonomous agent built on **ChatGPT API** — capable of planning, tool use, and executing multi-turn tasks without human intervention.
+> Multi-step autonomous agent built on **CLAUDE API** — capable of planning, tool use, and executing multi-turn tasks without human intervention.
 
 - Exploring: ReAct prompting · Tool-augmented LLMs · Memory & state management
 
